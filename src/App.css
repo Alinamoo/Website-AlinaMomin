@@ -1,8 +1,10 @@
 .App {
   text-align: center;
-  background-image: url(./components/minimal.jpg);
+  background-image: white;
   min-height: 100vh;
-  max-height: 100%;
+  /*max-height: 100vmax;*/
+  max-height: max-content;
+  position: relative;
 }
 
 .App-logo {
@@ -17,7 +19,11 @@
 }
 
 .fontsample {
-  color: white;
+  color: black;
+  max-height: fit-content;
+  /*min-height: 100vh;*/
+  /*display: flex;*/
+  /*flex-flow: wrap;*/
 }
 
 .App-header {
@@ -53,5 +59,75 @@
 /*  font-size: 4rem;*/
 /*}*/
 .fontsample {
-  color: white;
+  color: black;
+  max-height: fit-content;
+  /*min-height: 100vh;*/
+  /*display: flex;*/
+  /*flex-flow: wrap;*/
+}
+
+
+
+/* for blog container styling */
+* {
+  margin: 0;
+  padding: 0;
+  color: black;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  min-width: 100%;
+  background-color: rgba(238, 222, 168, 0.961);
+  font-family: "Courier New", monospace;
+}
+
+.BlogsContainer {
+  padding-top: 5%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  align-content: center;
+  width: 100%;
+}
+
+.PostContainer {
+  border: 3px solid black;
+  width: 375px;
+}
+
+.Image {
+  border-bottom: 2px solid black;
+  width: 370px;
+  height: 275px;
+  object-fit: cover;
+  margin-bottom: 3%;
+}
+
+.TDContainer {
+  padding-left: 4%;
+  padding-right: 4%;
+  padding-bottom: 4%;
+}
+
+/* blog styling above ^ */
+
+
+.Footer {
+  margin-top: 1rem;
+  padding-bottom: 60px;
+  position: absolute;
+  display: block;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+
 }
