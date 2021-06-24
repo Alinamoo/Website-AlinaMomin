@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Website-AlinaMomin/static/css/main.9c275154.chunk.css",
-    "main.js": "/Website-AlinaMomin/static/js/main.0e098ae2.chunk.js",
-    "main.js.map": "/Website-AlinaMomin/static/js/main.0e098ae2.chunk.js.map",
-    "runtime-main.js": "/Website-AlinaMomin/static/js/runtime-main.b3a2e098.js",
-    "runtime-main.js.map": "/Website-AlinaMomin/static/js/runtime-main.b3a2e098.js.map",
-    "static/css/2.62cbf21c.chunk.css": "/Website-AlinaMomin/static/css/2.62cbf21c.chunk.css",
-    "static/js/2.0f5808a0.chunk.js": "/Website-AlinaMomin/static/js/2.0f5808a0.chunk.js",
-    "static/js/2.0f5808a0.chunk.js.map": "/Website-AlinaMomin/static/js/2.0f5808a0.chunk.js.map",
-    "static/js/3.b9b1b1a8.chunk.js": "/Website-AlinaMomin/static/js/3.b9b1b1a8.chunk.js",
-    "static/js/3.b9b1b1a8.chunk.js.map": "/Website-AlinaMomin/static/js/3.b9b1b1a8.chunk.js.map",
+    "main.css": "/Website-AlinaMomin/static/css/main.73624aab.chunk.css",
+    "main.js": "/Website-AlinaMomin/static/js/main.590efe8f.chunk.js",
+    "main.js.map": "/Website-AlinaMomin/static/js/main.590efe8f.chunk.js.map",
+    "runtime-main.js": "/Website-AlinaMomin/static/js/runtime-main.f82b7ace.js",
+    "runtime-main.js.map": "/Website-AlinaMomin/static/js/runtime-main.f82b7ace.js.map",
+    "static/css/2.4f8976c6.chunk.css": "/Website-AlinaMomin/static/css/2.4f8976c6.chunk.css",
+    "static/js/2.0f913266.chunk.js": "/Website-AlinaMomin/static/js/2.0f913266.chunk.js",
+    "static/js/2.0f913266.chunk.js.map": "/Website-AlinaMomin/static/js/2.0f913266.chunk.js.map",
+    "static/js/3.63480e6e.chunk.js": "/Website-AlinaMomin/static/js/3.63480e6e.chunk.js",
+    "static/js/3.63480e6e.chunk.js.map": "/Website-AlinaMomin/static/js/3.63480e6e.chunk.js.map",
     "index.html": "/Website-AlinaMomin/index.html",
-    "static/css/2.62cbf21c.chunk.css.map": "/Website-AlinaMomin/static/css/2.62cbf21c.chunk.css.map",
-    "static/css/main.9c275154.chunk.css.map": "/Website-AlinaMomin/static/css/main.9c275154.chunk.css.map",
-    "static/js/2.0f5808a0.chunk.js.LICENSE.txt": "/Website-AlinaMomin/static/js/2.0f5808a0.chunk.js.LICENSE.txt"
+    "static/css/2.4f8976c6.chunk.css.map": "/Website-AlinaMomin/static/css/2.4f8976c6.chunk.css.map",
+    "static/css/main.73624aab.chunk.css.map": "/Website-AlinaMomin/static/css/main.73624aab.chunk.css.map",
+    "static/js/2.0f913266.chunk.js.LICENSE.txt": "/Website-AlinaMomin/static/js/2.0f913266.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3a2e098.js",
-    "static/css/2.62cbf21c.chunk.css",
-    "static/js/2.0f5808a0.chunk.js",
-    "static/css/main.9c275154.chunk.css",
-    "static/js/main.0e098ae2.chunk.js"
+    "static/js/runtime-main.f82b7ace.js",
+    "static/css/2.4f8976c6.chunk.css",
+    "static/js/2.0f913266.chunk.js",
+    "static/css/main.73624aab.chunk.css",
+    "static/js/main.590efe8f.chunk.js"
   ]
 }
