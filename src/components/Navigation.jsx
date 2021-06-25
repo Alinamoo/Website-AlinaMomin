@@ -45,15 +45,17 @@ function Navigation(props) {
                                 </Link>
                             </li>
 
-                            <li
-                                className={`nav-item  ${
-                                    props.location.pathname === "/projects" ? "active" : ""
-                                }`}
-                            >
-                                <Link class="nav-link" to="/projects">
-                                    Projects
-                                </Link>
-                            </li>
+                            {/*<li*/}
+                            {/*    className={`nav-item  ${*/}
+                            {/*        props.location.pathname === "/projects" ? "active" : ""*/}
+                            {/*    }`}*/}
+                            {/*>*/}
+                            {/*    <Link class="nav-link" to="/projects">*/}
+                            {/*        Projects*/}
+                            {/*    </Link>*/}
+                            {/*</li>*/}
+
+                            <Link href="#" to="/projects">Projects</Link>
 
 
                         </ul>
