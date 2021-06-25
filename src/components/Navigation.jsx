@@ -40,7 +40,7 @@ function Navigation(props) {
                                     props.location.pathname === "/blog" ? "active" : ""
                                 }`}
                             >
-                                <Link class="nav-link" to="/blog">
+                                <Link class="nav-link" to="alinamomin.com/blog">
                                     Blog
                                 </Link>
                             </li>
