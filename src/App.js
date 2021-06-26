@@ -27,7 +27,7 @@ function App() {
     <div className="App">
         {/*<header className="App-header">*/}
         {/*<HomepageImage />*/}
-        <Router basename={'/Website-AlinaMomin'}>
+        <Router >
         <Navigation />
         <Switch>
           <Route path="/" exact component={() => <Home />} />
